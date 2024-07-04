@@ -2,7 +2,7 @@
 
 /* 全体のスタイル */
 body {
-    font-family: monospace ;
+    font-family: monospace;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -29,6 +29,18 @@ h1 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     max-width: 600px;
     width: 100%;
+}
+
+/* タイマーのスタイル */
+#timer {
+    font-family: monospace;
+    color: black;
+    font-size: 2em;
+    margin-top: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 /* ボタンのスタイル */
